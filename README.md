@@ -42,7 +42,7 @@ code :
 
 ![helena0589's GitHub stats](https://github-readme-stats.vercel.app/api?username=helena0589&show_icons=true&theme=transparent)
 
-![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj={helena0589})](https://solved.ac/{helena0589})
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=helena0589)](https://solved.ac/helena0589)
 
 <a href="https://blogstudy.notion.site/Home-ecac595a03854e559672493272779381" target="_blank"><img src="https://img.shields.io/badge/notion-000000?style=social&logo=notion&logoColor=0000000"/></a>
 
