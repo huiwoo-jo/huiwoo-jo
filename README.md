@@ -33,7 +33,7 @@ https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 
 -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=Hui-Woo's%20Github!&desc=welcome%20my%20github"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9ACAE7,100:4797CA&height=300&section=header&text=Hui-Woo's%20Github!&desc=welcome%20my%20github"/>
 
 ![helena0589's GitHub stats](https://github-readme-stats.vercel.app/api?username=helena0589&show_icons=true&theme=transparent)
 
