@@ -31,13 +31,19 @@ code :
 -stats & repo theme
 https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 
+-bg solved.ac
+link : https://github.com/mazassumnida/mazassumnida
+code : 
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{handle})
 -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9ACAE7,100:4797CA&fontColor=ffffff&height=250&fontAlignY=40&descSize=30&DescAlignY=63&section=header&text=Hui-Woo's%20Github!&desc=welcome%20to%20my%20github"/>
 
 ![helena0589's GitHub stats](https://github-readme-stats.vercel.app/api?username=helena0589&show_icons=true&theme=transparent)
 
-<a href="https://blogstudy.notion.site/Home-ecac595a03854e559672493272779381" target="_blank"><img src="https://img.shields.io/badge/notion-000000?style=social&logo=notion&logoColor=0000000"/></a>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj={helena0589})](https://solved.ac/{helena0589})
 
+<a href="https://blogstudy.notion.site/Home-ecac595a03854e559672493272779381" target="_blank"><img src="https://img.shields.io/badge/notion-000000?style=social&logo=notion&logoColor=0000000"/></a>
 
 <a href="https://velog.io/@helena0589" target="_blank"><img src="https://img.shields.io/badge/velog-000000?style=social&logo=velog&logoColor=0000000"/></a>
