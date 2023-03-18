@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **helena0589/helena0589** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,7 +14,6 @@ Here are some ideas to get you started:
 -->
 
 <!--
-
 - header
 link : https://github.com/kyechan99/capsule-render
 code : 
@@ -38,12 +35,24 @@ code :
 프로필](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{handle})
 -->
 
+<!-- header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9ACAE7,100:4797CA&fontColor=ffffff&height=250&fontAlignY=40&descSize=30&DescAlignY=63&section=header&text=Hui-Woo's%20Github!&desc=welcome%20to%20my%20github"/>
 
+<!-- intro -->
+### Hi Visitor 👋
+Good day!
+I am Hui-Woo Jo (조희우) who interesed in Android.
+Lately, I've been studying Kotlin and alogorithm!
+If you have questions about my code, please DM to my instagram handle (@huiwoo.jo)
+Feel free to ask any questions! thank you to read
+
+
+<!-- stats -->
 ![helena0589's GitHub stats](https://github-readme-stats.vercel.app/api?username=helena0589&show_icons=true&theme=transparent)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=helena0589)](https://solved.ac/helena0589)
 
+<!-- link -->
 <a href="https://blogstudy.notion.site/Home-ecac595a03854e559672493272779381" target="_blank"><img src="https://img.shields.io/badge/notion-000000?style=social&logo=notion&logoColor=0000000"/></a>
 
 <a href="https://velog.io/@helena0589" target="_blank"><img src="https://img.shields.io/badge/velog-000000?style=social&logo=velog&logoColor=0000000"/></a>
