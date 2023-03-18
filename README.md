@@ -33,7 +33,7 @@ https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 
 -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=내용입력&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=200&section=header&text=Hui-Woo's%20Github!&desc=welcome&20my%20github&fontSize=90" />
 
 ![helena0589's GitHub stats](https://github-readme-stats.vercel.app/api?username=helena0589&show_icons=true&theme=transparent)
 
