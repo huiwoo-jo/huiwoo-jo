@@ -20,3 +20,6 @@ Here are some ideas to get you started:
 --!>
 
 <a href="https://blogstudy.notion.site/Home-ecac595a03854e559672493272779381" target="_blank"><img src="https://img.shields.io/badge/notion-000000?style=social&logo=notion&logoColor=0000000"/></a>
+
+
+<a href="https://velog.io/@helena0589" target="_blank"><img src="https://img.shields.io/badge/velog-000000?style=social&logo=velog&logoColor=0000000"/></a>
