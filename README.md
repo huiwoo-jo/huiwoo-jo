@@ -40,11 +40,11 @@ code :
 
 <!-- intro -->
 ### Hi Visitor 👋
-Good day!
-I am Hui-Woo Jo (조희우) who interesed in Android.
-Lately, I've been studying Kotlin and alogorithm!
-If you have questions about my code, please DM to my instagram handle (@huiwoo.jo)
-Feel free to ask any questions! thank you to read
+Good day! </br>
+I am Hui-Woo Jo (조희우) who interesed in Android. </br>
+Lately, I've been studying <b>Kotlin</b> and <b>alogorithm</b>! </br>
+If you have questions about my code, please DM to my instagram handle (<i>@huiwoo.jo</i>) </br>
+Feel free to ask any questions! thank you to read😁 </br>
 
 
 <!-- stats -->
