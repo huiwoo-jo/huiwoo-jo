@@ -1,18 +1,8 @@
 <!--
-**helena0589/helena0589** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+**huiwoo-jo/조희우** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
+<!-- using code -->
 <!--
 - header
 link : https://github.com/kyechan99/capsule-render
@@ -35,6 +25,9 @@ code :
 프로필](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{handle})
 -->
 
+
+
+
 <!-- header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9ACAE7,100:4797CA&fontColor=ffffff&height=250&fontAlignY=40&descSize=30&DescAlignY=63&section=header&text=Hui-Woo's%20Github!&desc=welcome%20to%20my%20github"/>
 
@@ -43,7 +36,7 @@ code :
 Good day! </br>
 I am Hui-Woo Jo (조희우) who interesed in Android. </br>
 Lately, I've been studying <b>Kotlin</b> and <b>alogorithm</b>! </br>
-If you have questions about my code, please DM to my instagram handle (<i>@huiwoo.jo</i>) </br>
+If you have questions about my code, please DM to my instagram handle (<a href="https://www.instagram.com/huiwoo_jo/?igshid=MTA2NDdkNWE%3D" target="_blank"><i>@huiwoo.jo</i></a>) </br>
 Feel free to ask any questions! thank you to read😁 </br>
 
 
