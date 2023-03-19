@@ -48,7 +48,7 @@ Feel free to ask any questions! thank you to read😁 </br>
 
 
 <!-- stats -->
-![helena0589's GitHub stats](https://github-readme-stats.vercel.app/api?username=helena0589&show_icons=true&theme=transparent)
+![huiwoo-jo's GitHub stats](https://github-readme-stats.vercel.app/api?username=huiwoo-jo&show_icons=true&theme=transparent)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=helena0589)](https://solved.ac/helena0589)
 
