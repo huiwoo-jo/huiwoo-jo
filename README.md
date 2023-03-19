@@ -18,6 +18,10 @@ code :
 -stats & repo theme
 https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 
+- used language
+code: 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=깃허브 아이디&layout=레이아웃 스타일&theme=스타일)
+
 -bg solved.ac
 link : https://github.com/mazassumnida/mazassumnida
 code : 
@@ -42,6 +46,8 @@ Feel free to ask any questions! thank you to read😁 </br>
 
 <!-- stats -->
 ![huiwoo-jo's GitHub stats](https://github-readme-stats.vercel.app/api?username=huiwoo-jo&show_icons=true&theme=transparent)
+
+![huiwoo-jo's GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huiwoo-jo&layout=compact&theme=nord&hide_border=true")
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=helena0589)](https://solved.ac/helena0589)
 
