@@ -51,9 +51,8 @@ Feel free to ask any questions! thank you to read😁 </br>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=helena0589)](https://solved.ac/helena0589)
 
-<!--
-<!-- link -->
-<a href="https://blogstudy.notion.site/Home-ecac595a03854e559672493272779381" target="_blank"><img src="https://img.shields.io/badge/notion-000000?style=social&logo=notion&logoColor=0000000"/></a>
+<!-- link
+  <a href="https://blogstudy.notion.site/Home-ecac595a03854e559672493272779381" target="_blank"><img src="https://img.shields.io/badge/notion-000000?style=social&logo=notion&logoColor=0000000"/></a>
 
-<a href="https://velog.io/@helena0589" target="_blank"><img src="https://img.shields.io/badge/velog-000000?style=social&logo=velog&logoColor=0000000"/></a>
+  <a href="https://velog.io/@helena0589" target="_blank"><img src="https://img.shields.io/badge/velog-000000?style=social&logo=velog&logoColor=0000000"/></a>
 -->
