@@ -45,6 +45,7 @@ Feel free to ask any questions! thank you to read😁 </br>
 
 
 <!-- stats -->
+<!-- 
 ![huiwoo-jo's GitHub stats](https://github-readme-stats.vercel.app/api?username=huiwoo-jo&show_icons=true&theme=transparent)
 
 ![huiwoo-jo's GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huiwoo-jo&layout=compact&theme=nord&hide_border=true")
@@ -55,4 +56,5 @@ Feel free to ask any questions! thank you to read😁 </br>
   <a href="https://blogstudy.notion.site/Home-ecac595a03854e559672493272779381" target="_blank"><img src="https://img.shields.io/badge/notion-000000?style=social&logo=notion&logoColor=0000000"/></a>
 
   <a href="https://velog.io/@helena0589" target="_blank"><img src="https://img.shields.io/badge/velog-000000?style=social&logo=velog&logoColor=0000000"/></a>
+-->
 -->
