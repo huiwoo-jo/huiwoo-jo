@@ -43,8 +43,9 @@ Lately, I've been studying <b>Kotlin</b> and <b>alogorithm</b>! </br>
 If you have questions about my code, please DM to my instagram handle (<a href="https://www.instagram.com/huiwoo_jo/?igshid=MTA2NDdkNWE%3D" target="_blank"><i>@huiwoo.jo</i></a>) </br>
 Feel free to ask any questions! thank you to read😁 </br>
 
-<!--
 <!-- stats -->
+
+<!--
 ![huiwoo-jo's GitHub stats](https://github-readme-stats.vercel.app/api?username=huiwoo-jo&show_icons=true&theme=transparent)
 
 ![huiwoo-jo's GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huiwoo-jo&layout=compact&theme=nord&hide_border=true")
