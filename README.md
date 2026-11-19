@@ -38,8 +38,8 @@ code :
 <!-- intro -->
 ### Hi Visitor 👋
 Good day! </br>
-I am Hui-Woo Jo (조희우) who interesed in Android. </br>
-Lately, I've been studying <b>Kotlin</b> and <b>alogorithm</b>! </br>
+I am Hui-Woo Jo (조희우) who interesed in Web Frontend. </br>
+Lately, I've been studying React, Next.js, TypeScript etc! </br>
 If you have questions about my code, please DM to my instagram handle (<a href="https://www.instagram.com/huiwoo_jo/?igshid=MTA2NDdkNWE%3D" target="_blank"><i>@huiwoo.jo</i></a>) </br>
 Feel free to ask any questions! thank you to read😁 </br>
 
