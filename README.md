@@ -36,11 +36,19 @@ code :
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9ACAE7,100:4797CA&fontColor=ffffff&height=250&fontAlignY=40&descSize=30&DescAlignY=63&section=header&text=Hui-Woo's%20Github!&desc=welcome%20to%20my%20github"/>
 
 <!-- intro -->
+
+### 안녕하세요 👋
+반갑습니다! </br>
+저는 웹 프론트엔드를 공부중인 조희우라고합니다. </br>
+최근에는 React, Next.js, Typecscrt 등을 공부하고있습니다. </br>
+만약 제 코드나 프로젝트에 관해 질문이 있으시다면 인스타그램(<a href="https://www.instagram.com/huiwoo_jo/?igshid=MTA2NDdkNWE%3D" target="_blank"><i>@huiwoo.jo</i></a>)으로 DM 주시면 감사하겠습니다!</br>
+저의 깃허브에 와주셔서 감사합니다😁 </br>
+
 ### Hi Visitor 👋
 Good day! </br>
 I am Hui-Woo Jo (조희우) who interesed in Web Frontend. </br>
 Lately, I've been studying React, Next.js, TypeScript etc! </br>
-If you have questions about my code, please DM to my instagram handle (<a href="https://www.instagram.com/huiwoo_jo/?igshid=MTA2NDdkNWE%3D" target="_blank"><i>@huiwoo.jo</i></a>) </br>
+If you have questions about my code or projects, please DM to my instagram handle (<a href="https://www.instagram.com/huiwoo_jo/?igshid=MTA2NDdkNWE%3D" target="_blank"><i>@huiwoo.jo</i></a>) </br>
 Feel free to ask any questions! thank you to read😁 </br>
 
 <!-- stats -->
